@@ -1,3 +1,3 @@
 <?php
 echo 'Welcome TECH QUEST!';
-echo "Welcome";
+echo "TECH QUEST!";
